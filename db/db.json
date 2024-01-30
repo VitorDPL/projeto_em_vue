@@ -1,0 +1,91 @@
+{
+  "ingredientes": {
+    "tamanhos": [
+      {
+        "id": 1,
+        "tipo": "250 ML"
+      },
+      {
+        "id": 2,
+        "tipo": "400 ML"
+      },
+      {
+        "id": 3,
+        "tipo": "500 ML"
+      },
+      {
+        "id": 4,
+        "tipo": "700 ML"
+      }
+    ],
+    "frutas": [
+      {
+        "id": 1,
+        "tipo": "Banana"
+      },
+      {
+        "id": 2,
+        "tipo": "Morango"
+      },
+      {
+        "id": 3,
+        "tipo": "Kiwi"
+      },
+      {
+        "id": 4,
+        "tipo": "Abacate"
+      }
+    ],
+    "caldas": [
+      {
+        "id": 1,
+        "tipo": "Chocolate"
+      },
+      {
+        "id": 2,
+        "tipo": "Abacaxi"
+      },
+      {
+        "id": 3,
+        "tipo": "Limão"
+      },
+      {
+        "id": 4,
+        "tipo": "Baunilha"
+      }
+    ],
+    "adicionais": [
+      {
+        "id": 1,
+        "tipo": "Nutella"
+      },
+      {
+        "id": 2,
+        "tipo": "Leite em Pó"
+      },
+      {
+        "id": 3,
+        "tipo": "Granola"
+      },
+      {
+        "id": 4,
+        "tipo": "Confete"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "açais": []
+}
